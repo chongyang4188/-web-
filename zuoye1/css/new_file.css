@@ -1,0 +1,145 @@
+a{
+	color: white;
+}
+
+li{
+ display:inline;
+}
+#daohang{
+	font-size: 19px;
+	width: 90%;
+	padding-left: 180px;
+}
+#daohang ul{
+	display: initial;
+	text-align: center;
+	padding-top:10px;
+	float: right;
+}
+#neirong{
+	
+	width: 100%;
+}
+#neirong-1{
+	float: left;
+	width: 90%;
+	padding-left: 150px;
+	
+}
+#neirong-2{
+	position: relative;
+	margin: 0 auto;
+	width :90%;
+	
+	
+}
+#neirong-2 table{
+	position: relative;
+	margin: 0 auto;
+	border: 1px solid darkgrey;	
+}
+#neirong-2-1{
+	width: 150px;
+	background-color:#122B40;
+	font-size: 17px;
+	text-align: center;
+}
+.neirong-2-1{
+	width: 150px;
+	background-color:lightgray;
+	font-size: 17px;
+	text-align: center;
+}
+#neirong-2-1 a{
+	color: white;
+}
+.neirong-2-1 a{
+	color:black;
+}
+
+#neirong-3 {
+	position: relative;
+	margin: 0 auto;
+	width :60%;
+	
+	
+}
+#neirong-3 table{
+	position: relative;
+	margin: 0 auto;
+	border: 1px solid darkgrey;	
+}
+#neirong-3-2{
+	float:right ;
+	
+}
+.neirong-4{
+	position: relative;
+	margin: 0 auto;
+	width :60%;
+	border-bottom: 1px dashed ;
+	height: 350px;	
+	padding-top: 25px;
+}
+
+.neirong-4-2{
+	float: right;
+	text-align: left;
+	
+	width :65%;
+}
+.neirong-4-2{
+	float: right;
+}
+.neirong-4-2-1-2{
+	float: right;
+}
+#neirong-5{
+	width: 80%;
+	text-align: right;
+}
+#dibu{
+	position: relative;
+	margin: 0 auto;
+	width :60%;
+	height: 200px;	
+	background:black;
+	color:white;
+}
+#dibu table {
+	float: left;
+	display: inline;
+	position: relative;
+	margin: 0 auto;
+	text-align: center;
+	padding-left: 30px;
+	padding-top: 30px;
+}
+#dibu-1-2{
+		
+	width: 40%;
+	float: left;	
+}
+#dibu-1-2 table{
+	float: right;
+	position: relative;
+	margin: 0 auto;
+	text-align: center;
+	width: 60%;
+	padding-top: 30px;
+}
+#dibu-2{
+	width: 80%;
+}
+#d{
+	position: fixed;
+	right: 0px;
+	top:50px;
+
+}
+#111{
+	width: 3px;
+	position: fixed;
+	
+}
+
